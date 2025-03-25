@@ -1,6 +1,8 @@
 # Diabetes-Symptom-Analysis-and-Prediction
 Analyze diabetes-related symptoms using healthcare data to visualize symptom prevalence, rank feature importance, and predict diabetes risk with machine learning. Includes an interactive dashboard to explore insights dynamically.
 
+---
+
 ## **Project Overview**
 This project leverages healthcare data to analyze diabetes-related symptoms, predict diabetes risk, and provide interactive visualizations. Key features include:
 1. **Symptom Prevalence Analysis**: Visualize frequencies of symptoms in diabetic vs. non-diabetic individuals.
@@ -11,6 +13,8 @@ This project leverages healthcare data to analyze diabetes-related symptoms, pre
 
 ## **Dataset**
 The dataset used is publicly available on Kaggle: [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset?resource=download). It contains information about symptoms, gender, age, and diabetes classification (Positive/Negative).
+
+---
 
 ## **Modules Used**
 - **pandas**: For data manipulation and preprocessing.
